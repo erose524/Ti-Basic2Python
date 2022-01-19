@@ -1,5 +1,9 @@
 # TI-Basic to Python
 # Created by Alex Watson and Elijah Rosen
+
+# TODO: Interpret strings character by character instead of with strings
+# TODO: Figure out word wrapping and …
+
 from os import system
 
 
